@@ -3,9 +3,9 @@ AviSynth Neo
 
 **AviSynth Neo** is an improved version of the [AviSynth frameserver](http://avisynth.nl/index.php/Main_Page), with improved features, developer-friendliness and CUDA support. 
 
-Visit our [forum thread](http://forum.doom9.org/showthread.php?t=168856) for compilation instructions and support.
-The original [homepage of the project](http://avs-plus.net) is not functional at the moment (June, 2018).
-Development branch: https://github.com/pinterf/AviSynthPlus/tree/MT
+Visit the original [forum thread](http://forum.doom9.org/showthread.php?t=168856) for compilation instructions and support.
+The original [homepage of the project](http://avs-plus.net).
+
 
 Building the documentation:
 ---------------------------
