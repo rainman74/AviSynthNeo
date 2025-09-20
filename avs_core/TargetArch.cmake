@@ -129,7 +129,7 @@ function(target_architecture output_var)
         # already be set to "unknown" but in the case that it's empty (i.e. due
         # to a typo in the code), then set it to unknown
         if (NOT ARCH)
-            set(ARCH unknown)
+            set(ARCH x86_64)
         endif()
     endif()
 
